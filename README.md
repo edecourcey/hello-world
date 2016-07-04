@@ -1,2 +1,6 @@
 # hello-world
 Yet another repository
+
+Hey...
+
+Wow, this is already interesting.  I played with Linux a few years ago, but did not go beyond the basics.  I can imagine using this for my writing, in addition to coding.  Very cool...
